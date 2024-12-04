@@ -33,4 +33,5 @@ return {
 ["irfitf325"] = true,
 ["irfitf325"] = true,
 ["qw25935"] = true,
+["shuehdugw"] = true,
 }
