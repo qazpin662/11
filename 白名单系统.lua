@@ -4,5 +4,6 @@ return {
 ["520lhy1"] = true
 ["starsopy114514"] = true
 ["114514_CNnd"] = true
-["xxllll888"] = true,
+["xxllll888"] = true
+["kxiaobai66"] = true
 }
