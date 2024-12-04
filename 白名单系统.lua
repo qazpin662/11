@@ -15,4 +15,6 @@ return {
 ["Qwettr9"] = true,
 ["lixuanyu5201314"] = true,
 ["ZMSHXB"] = true,
+["cjja98"] = true,
+["fzr391"] = true,
 }
