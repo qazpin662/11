@@ -19,5 +19,4 @@ return {
 ["fzr391"] = true,
 ["masksjakqkess"] = true,
 ["k9999Ok"] = true,
-
 }
