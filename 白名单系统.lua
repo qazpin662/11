@@ -32,6 +32,6 @@ return {
 ["zhangjiake5520"] = true,
 ["irfitf325"] = true,
 ["irfitf325"] = true,
-["qwa25935"] = true,
+["qw25935"] = true,
 ["shuehdugw"] = true,
 }
