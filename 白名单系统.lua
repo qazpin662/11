@@ -8,4 +8,7 @@ return {
 ["ifjfjrnfjw"] = true,
 ["xlhexk1324"] = true,
 ["xiaotangshan"] = true,
+["EEVEENOT_Human"] = true,
+["qingliang_wolf"] = true,
+["zxc15862"] = true,
 }
