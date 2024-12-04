@@ -11,4 +11,6 @@ return {
 ["EEVEENOT_Human"] = true,
 ["qingliang_wolf"] = true,
 ["zxc15862"] = true,
+["pop_wcw"] = true,
+["Qwettr9"] = true,
 }
