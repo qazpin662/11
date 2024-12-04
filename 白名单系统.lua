@@ -14,4 +14,5 @@ return {
 ["pop_wcw"] = true,
 ["Qwettr9"] = true,
 ["lixuanyu5201314"] = true,
+["ZMSHXB"] = true,
 }
