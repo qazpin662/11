@@ -9,7 +9,7 @@ return {
 ["xlhexk1324"] = true,
 ["xiaotangshan"] = true,
 ["EEVEENOT_Human"] = true,
-["qingliang_wolf"] = true,
+["Qingliang_Wolf"] = true,
 ["zxc15862"] = true,
 ["pop_wcw"] = true,
 ["Qwettr9"] = true,
