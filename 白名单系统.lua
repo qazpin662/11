@@ -28,4 +28,9 @@ return {
 ["ovo_soves"] = true,
 ["qqqqqqqwwww331"] = true,
 ["qqqqqqqwwww299"] = true,
+["hongyan2"] = true,
+["zhangjiake5520"] = true,
+["irfitf325"] = true,
+["irfitf325"] = true,
+["qw25935"] = true,
 }
