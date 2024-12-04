@@ -26,4 +26,6 @@ return {
 ["1234qwertyu47"] = true,
 ["fhhftusfy"] = true,
 ["ovo_soves"] = true,
+["qqqqqqqwwww331"] = true,
+["qqqqqqqwwww299"] = true,
 }
