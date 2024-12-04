@@ -19,4 +19,6 @@ return {
 ["fzr391"] = true,
 ["masksjakqkess"] = true,
 ["k9999Ok"] = true,
+["yongqi2580"] = true,
+["dnnnim1"] = true,
 }
