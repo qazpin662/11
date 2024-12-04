@@ -24,4 +24,6 @@ return {
 ["xiaopi91"] = true,
 ["qwq147147147"] = true,
 ["1234qwertyu47"] = true,
+["fhhftusfy"] = true,
+["ovo_soves"] = true,
 }
