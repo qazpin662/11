@@ -5,6 +5,7 @@ return {
 ["starsopy114514"] = true,
 ["114514_CNnd"] = true,
 ["xxllll888"] = true,
+["ifjfjrnfjw"] = true,
 ["xlhexk1324"] = true,
 ["xiaotangshan"] = true,
 }
