@@ -35,4 +35,7 @@ return {
 ["qw25935"] = true,
 ["shuehdugw"] = true,
 ["atin6158"] = true,
+["qwertyu202028"] = true,
+["sjsjsjw34"] = true,
+["666S8u"] = true,
 }
